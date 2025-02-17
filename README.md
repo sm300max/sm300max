@@ -28,4 +28,4 @@
 
 ### 🔥 Stats
 
-[![Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm300max&show_icons=true&theme=midnight-purple)(#)
+(![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm300max&show_icons=true&theme=midnight-purple)
