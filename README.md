@@ -29,4 +29,4 @@
 ### 🔥 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm300max&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)
