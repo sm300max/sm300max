@@ -23,3 +23,9 @@
 ### 🤖 Terminal
 
 [![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)](#)
+[![Termux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](#)
+[![zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)](#)
+
+### 🔥 Stats
+
+[![Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm300max&show_icons=true&theme=midnight-purple)(#)
