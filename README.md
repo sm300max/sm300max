@@ -1,7 +1,1 @@
-## Hi there 👋, from sm300max!
-
-## I'm just a student from basic school.
-
-<!--
-**sm300max/sm300max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h2 align='center'><samp><strong>Hi there, i'm sm300max!</strong></samp></h2>
