@@ -2,7 +2,7 @@
 
 ### 😎 Smth about me:
 
-- I,m just a studant from Russia, finding my specialization.
+- I,m just a student from Russia, finding my specialization.
 - Experienced in "Go" and "Rust"
 - "Linux" enthusiast, using "Arch" as my main OS
 
