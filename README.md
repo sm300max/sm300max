@@ -4,7 +4,7 @@
 
 - I,m just a student from Russia, finding my specialization.
 - Experienced in "Go" and "Rust"
-- "Linux" enthusiast, using "Arch" as my main OS
+- "Linux" enthusiast, using "NixOS" as my main OS
 
 ### ✉️ Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sm300max) 
